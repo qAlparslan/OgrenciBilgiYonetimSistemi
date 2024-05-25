@@ -1,5 +1,4 @@
 package org.main;
-// Ogrencinin adı, soyadı, yaşı, numarası 
 
 public class Ogrenci {
 	private String ad;
